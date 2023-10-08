@@ -76,7 +76,7 @@
   "modal_qr_shortdesc": "This exports not-oauth2 settings. (It means that Dropbox, OneDrive info are NOT exported.)\nYou can use another device to scan this qrcode.\nOr, you can click the button to copy the special url.",
   "modal_qr_button": "Click to copy the special URI",
   "modal_qr_button_notice": "The special uri is copied to the clipboard!",
-  "modal_sizesconflict_title": "Remotely Save: Some conflict were found while skipping large files",
+  "modal_sizesconflict_title": "Remotely Secure: Some conflict were found while skipping large files",
   "modal_sizesconflict_desc": "You've set skipping files larger than {{thresholdMB}} MB ({{thresholdBytes}} bytes).\nBut the following files have sizes larger than the threshold on one side, and sizes smaller than the threshold on the other side.\nTo avoid unexpected overwriting or deleting, the plugin stops, and you have to manually deal with at least one side of the files.",
   "modal_sizesconflict_copybutton": "Click to copy all the below sizes conflicts info",
   "modal_sizesconflict_copynotice": "All the sizes conflicts info have been copied to the clipboard!",
