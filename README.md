@@ -1,4 +1,4 @@
-# Translations for Remotely Save
+# Translations for Remotely Secure
 
 ## How To Add A Language?
 
