@@ -88,6 +88,7 @@
   "settings_autorun": "自动运行",
   "settings_autorun_desc": "每隔一段时间，此插件尝试自动同步。会影响到电池用量。",
   "settings_autorun_notset": "（不设置）",
+  "settings_autorun_second": "每 {{time}} 秒钟",
   "settings_autorun_1min": "每 1 分钟",
   "settings_autorun_5min": "每 5 分钟",
   "settings_autorun_10min": "每 10 分钟",

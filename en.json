@@ -88,6 +88,7 @@
   "settings_autorun": "Schedule For Auto Run",
   "settings_autorun_desc": "The plugin trys to schedule the running after every interval. Battery may be impacted.",
   "settings_autorun_notset": "(not set)",
+  "settings_autorun_second": "every {{time}} seconds",
   "settings_autorun_1min": "every 1 minute",
   "settings_autorun_5min": "every 5 minutes",
   "settings_autorun_10min": "every 10 minutes",
