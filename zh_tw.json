@@ -88,7 +88,7 @@
   "settings_autorun": "自動執行",
   "settings_autorun_desc": "每隔一段時間，此外掛嘗試自動同步。會影響到電池用量。",
   "settings_autorun_notset": "（不設定）",
-  "settings_autorun_second": "每 {{time}} 秒钟",
+  "settings_autorun_second": "每 {{time}} 秒鐘",
   "settings_autorun_1min": "每 1 分鐘",
   "settings_autorun_5min": "每 5 分鐘",
   "settings_autorun_10min": "每 10 分鐘",
