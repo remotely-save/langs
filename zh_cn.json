@@ -258,7 +258,7 @@
   "statusbar_time_minutes": "{{time}} 分钟",
   "statusbar_time_lessminute": "不到一分钟",
   "statusbar_lastsync": "{{time}} 前同步",
-  "statusbar_lastsync_label": "最后一次成功同步在 {{date}}",
+  "statusbar_lastsync_label": "最后成功同步于 {{date}}",
   "statusbar_lastsync_never": "从未同步",
   "statusbar_lastsync_never_label": "以前从未同步过",
   "syncalgov2_title": "Remotely Secure 的同步算法得到优化",
