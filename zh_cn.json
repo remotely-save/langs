@@ -7,7 +7,7 @@
   "sometext": "这里有一段文字。",
   "syncrun_status_preparing": "Preparing...",
   "syncrun_status_progress": "Syncing ({{current}}/{{total}})",
-  "syncrun_alreadyrunning": "{{pluginName}} 正处于此阶段：{{syncStatus}}",
+  "syncrun_alreadyrunning": "{{pluginName}} 正处于此阶段!",
   "syncrun_syncingribbon": "{{pluginName}}：正在由 {{triggerSource}} 触发运行",
   "syncrun_step0": "{{maxSteps}} Remotely Secure 在空跑（dry run）模式，不会发生实际的文件交换。",
   "syncrun_step1": "{{maxSteps}} Remotely Secure 准备同步（{{serviceType}}）",
