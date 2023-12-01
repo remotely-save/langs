@@ -252,6 +252,8 @@
   "settings_enablestatusbar_reloadrequired_notice": "重新加载插件以使更改生效。",
   "settings_trash_locally": "Move deleted files to Obsidian .trash folder",
   "settings_trash_locally_desc": "If disabled will try to first move files to system trash.",
+  "settings_sync_trash": "Sync .trash folder",
+  "settings_sync_trash_desc": "Helps if you use local trash instead of system trash when deleting files in your Vault.",
   "statusbar_time_years": "{{time}} 年",
   "statusbar_time_months": "{{time}} 个月",
   "statusbar_time_weeks": "{{time}} 周",
