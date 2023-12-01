@@ -212,7 +212,7 @@
   "settings_import_desc": "您需要使用系统拍摄 app 或者扫描 QR 码的app，来扫描对应的 QR 码。",
   "settings_debug": "调试",
   "settings_debug_enabled": "修改终端输出的 enabled",
-  "settings_debug_enabled_desc": "默认值为 \"false\"。您可以改为 \"true\" 从而在终端里获取更多信息。",
+  "settings_debug_enabled_desc": "默认值为\"关闭\"。您可以改为\"开启\"，从而在终端里获取更多信息。",
   "settings_outputsettingsconsole": "读取硬盘上的设置文件输出到终端",
   "settings_outputsettingsconsole_desc": "硬盘上的设置文件是编码过的，点击这里从而解码并输出到终端。",
   "settings_outputsettingsconsole_button": "输出",
