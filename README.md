@@ -1,4 +1,4 @@
-# Translations for Remotely Secure
+# Translations for Remotely Sync
 
 ## How To Add A Language?
 
